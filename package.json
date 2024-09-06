@@ -23,8 +23,8 @@
   },
   "dependencies": {
     "express": "4.17.2",
-    "http-proxy-middleware": "^2.0.1",
-    "nodemon": "^2.0.15",
+    "http-proxy-middleware": "^3.0.1",
+    "nodemon": "^3.0.0",
     "socket.io": "4.4.0"
   },
   "engines": {
